@@ -1,0 +1,4 @@
+/* Marca errror, yo no conozco esa regla pero tailwind internamente genera las hojas de estilos*/
+@tailwind base; 
+@tailwind components;
+@tailwind utilities;
